@@ -11,7 +11,8 @@ plugins:
   - gemfile
 
 #theme: jekyll-theme-minima
-remote_theme: rundocs/jekyll-rtd-theme
+#remote_theme: rundocs/jekyll-rtd-theme
 
 
 #remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
