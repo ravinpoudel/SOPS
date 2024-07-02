@@ -1,2 +1,2 @@
 gem "jekyll-remote-theme"
-gem 'faraday-retry'
+gem install faraday-retry
