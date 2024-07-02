@@ -6,6 +6,6 @@ relative_links:
 include:
   - README.md
 
-#theme: jekyll-theme-hacker
-remote_theme: rundocs/jekyll-rtd-theme
+theme: jekyll-theme-minima
+#remote_theme: rundocs/jekyll-rtd-theme
 
