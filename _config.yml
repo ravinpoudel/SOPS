@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - BIOP_denovo_MGS_SOP.md
+
+#theme: jekyll-theme-hacker
+remote_theme: rundocs/jekyll-rtd-theme
